@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Oi mừng quá 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay mình cùng trò chuyện tiếp nhé Công chúa <3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' /bolacmen. 
+    messLink: 'http://fb.com' //bolacmen 
 }
